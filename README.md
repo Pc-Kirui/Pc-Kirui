@@ -8,7 +8,7 @@
 
 - 📫 Currently studying at **University of Nairobi**
 
-- 🌱 I’m currently learning **C Programming language**.
+- 🌱 I’m currently learning **C Programming language and Basics of web development**.
 
 - 💞️ I’m looking to collaborate on **Open source Projects**.
 

@@ -14,7 +14,6 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' >](https://www.linkedin.com/in/patrick-cheruiyot-kirui-a91335214/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/PcKirui)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' alt='freeCodeCamp' height='40'>](https://www.freecodecamp.org/pckirui)
 
 ---
 
@@ -26,6 +25,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pc-Kirui&layout=compact&langs_count=7&theme=great-gatsby"/>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pc-Kirui&&theme=merko" alt="Pc-kirui" />
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' alt='freeCodeCamp' height='40'>](https://www.freecodecamp.org/pckirui)
 
 <br>
 <br>
